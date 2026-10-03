@@ -7,6 +7,9 @@ O **n8n Automation Consultant** é um assistente especializado em **n8n, workflo
 A proposta é simples: **não apenas entregar uma solução, mas explicar a lógica por trás dela**, permitindo que você compreenda, modifique e mantenha suas próprias automações.
 
 ---
+## ✨ Link do Projeto
+
+https://notebook.google.com/notebook/b3becd63-7f73-4074-8848-9b5c518d2f0d
 
 ## ✨ O que este consultor faz
 
